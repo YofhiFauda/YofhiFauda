@@ -4,10 +4,8 @@
 
 <h2 align = center>
     <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+   <a align = left href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
 </h2>
-  <p align="left">
-    <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
-  </p>
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git
 - **Continuous Integration/Continuous Deployment:** GitHub Actions, Firebase

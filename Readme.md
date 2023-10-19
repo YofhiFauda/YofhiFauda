@@ -2,7 +2,7 @@
   <strong><a href="https://github.com/YofhiFauda/YofhiFauda">Hello! i' am Yofhi Fauda Pradana</a></strong>
 </h1>
 <h3 align="center">
-  <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a><br>
+  <p></p><a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a></p><br>
   
   <p align = left>🔧 Teknologi & Alat yang Saya Gunakan</p>
 </h2>

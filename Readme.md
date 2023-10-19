@@ -1,4 +1,5 @@
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}

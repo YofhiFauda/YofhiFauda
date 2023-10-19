@@ -3,7 +3,9 @@
 </h1>
 <h2 align="center">
   <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
-  <h3 align = left>🔧 Teknologi & Alat yang Saya Gunakan</h3>
+  <h3 align = left>
+    🔧 Teknologi & Alat yang Saya Gunakan
+  </h3>
 </h2>
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git

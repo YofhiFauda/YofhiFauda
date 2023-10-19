@@ -1,12 +1,14 @@
 <h1 align="center">
   <strong><a href="https://github.com/YofhiFauda/YofhiFauda">Hello! i' am Yofhi Fauda Pradana</a></strong>
 </h1>
+
+<p align = center>
+  <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+</p>
+
 <h3 align="center">
-  <p></p><a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a></p><br>
-  
-  <p align = left>🔧 Teknologi & Alat yang Saya Gunakan</p>
+  <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p><br>
 </h3>
-##
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git
 - **Continuous Integration/Continuous Deployment:** GitHub Actions, Firebase

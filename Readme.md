@@ -3,14 +3,12 @@
 </h1>
 
 <h2 align = center>
-  <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+    <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+  <br>
+  <p align="left">
+    <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p><br>
+  </p>
 </h2>
-
-<br>
-
-<h3 align="left">
-  <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p><br>
-</h3>
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git
 - **Continuous Integration/Continuous Deployment:** GitHub Actions, Firebase

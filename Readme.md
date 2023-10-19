@@ -1,1 +1,1 @@
-[Yofhi Fauda Pradana]([https://github.com/YofhiFauda/YofhiFauda])
+[Yofhi Fauda Pradana](https://github.com/YofhiFauda/YofhiFauda)

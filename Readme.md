@@ -1,10 +1,10 @@
 <h1 align="center">
-  <strong><a href="https://github.com/YofhiFauda/YofhiFauda">Hello!! i' am Yofhi Fauda Pradana</a></strong>
+  <strong><a href="https://github.com/YofhiFauda/YofhiFauda">i' am Yofhi Fauda Pradana</a></strong>
 </h1>
 
-<p align="center">
-  <h2><a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a></h2>
-</p>
+<h2 align="center">
+  <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+</h2>
 
 ## 🔧 Teknologi & Alat yang Saya Gunakan
 

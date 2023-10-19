@@ -5,7 +5,7 @@
   <p></p><a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a></p><br>
   
   <p align = left>🔧 Teknologi & Alat yang Saya Gunakan</p>
-</h2>
+</h3>
 ##
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git

@@ -1,8 +1,6 @@
-# [Yofhi Fauda Pradana](https://github.com/YofhiFauda/YofhiFauda)
-
 <center>
 
-# Hello!! **[Yofhi Fauda Pradana](https://github.com/YofhiFauda/YofhiFauda)**
+# **[Hello!! i' am Yofhi Fauda Pradana](https://github.com/YofhiFauda/YofhiFauda)**
 
 ## [Mobile Apps Developer](https://github.com/YofhiFauda/YofhiFauda)
 

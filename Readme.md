@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align = center>
-    <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+    <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a><br>
    <a align = left href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
 </h2>
 - **Mobile Development:** Flutter, Kotlin

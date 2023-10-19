@@ -12,6 +12,7 @@
     </p>
 </h2>
 
+
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git
 - **Continuous Integration/Continuous Deployment:** GitHub Actions, Firebase

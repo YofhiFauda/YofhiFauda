@@ -5,7 +5,6 @@
 <h2 align="center">
   <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
 </h2>
-
 ## 🔧 Teknologi & Alat yang Saya Gunakan
 
 - **Mobile Development:** Flutter, Kotlin

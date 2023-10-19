@@ -6,8 +6,9 @@
     <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
   <br>
   <p align="left">
-    <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p><br>
+    <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
   </p>
+  <br>
 </h2>
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git

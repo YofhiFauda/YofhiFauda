@@ -1,9 +1,9 @@
 <p align="center">
-  <h1><b>**[Hello!! i' am Yofhi Fauda Pradana](https://github.com/YofhiFauda/YofhiFauda)**</b></h1>
+  <h1><b><a href="https://github.com/YofhiFauda/YofhiFauda">Hello!! i' am Yofhi Fauda Pradana</a></b></h1>
 </p>
 
 <p align="center">
-  <h2>[Mobile Apps Developer](https://github.com/YofhiFauda/YofhiFauda)</h2>
+  <h2><a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a></h2>
 </p>
 
 ## 🔧 Teknologi & Alat yang Saya Gunakan

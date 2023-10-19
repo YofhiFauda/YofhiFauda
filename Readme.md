@@ -1,12 +1,12 @@
 <h1 align="center">
-  <strong><a href="https://github.com/YofhiFauda/YofhiFauda">Hello! i' am Yofhi Fauda Pradana</a></strong>
+  <strong><a href="https://github.com/YofhiFauda">Hello! i' am Yofhi Fauda Pradana</a></strong>
 </h1>
 
 <h2 align="center">
-    <a href="https://github.com/YofhiFauda/YofhiFauda">Mobile Apps Developer</a>
+    <a href="https://github.com/YofhiFauda">Mobile Apps Developer</a>
     <br>
     <p align="left">
-        <a href="https://github.com/YofhiFauda/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
+        <a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a>
     </p>
 </h2>
 

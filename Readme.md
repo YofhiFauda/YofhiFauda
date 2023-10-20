@@ -1,6 +1,6 @@
 <h1 align="left">
-  <strong><p><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></p></strong>
-  <sub><a href="https://github.com/YofhiFauda">Mobile Apps Developer</a></sub>
+  <strong><a href="">Hello! I' am Yofhi Fauda Pradana</a></p></strong>
+  <sub><a href="">Mobile Apps Developer</a></sub>
 </h1>
 
 ## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)

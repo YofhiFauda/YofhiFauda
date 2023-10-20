@@ -5,10 +5,6 @@
   <br>
   <br>
   <a href="https://github.com/YofhiFauda">Mobile Apps Developer</a>
-  <br>
-  <br>
-  <br>
-  <br>
 </h1>
 
 ## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)

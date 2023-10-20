@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <a href="https://github.com/YofhiFauda">Mobile Apps Developer</a>
+  <sub><a href="https://github.com/YofhiFauda">Mobile Apps Developer</a></sub>
 </h1>
 
 ## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)

@@ -10,8 +10,7 @@
   <br>
   <br>
   <div align="left">
-  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub>
-  </div>
+  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub></div>
 </h2>
 
     

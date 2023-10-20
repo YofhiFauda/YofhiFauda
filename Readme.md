@@ -1,7 +1,7 @@
 <h1 align="center">
   <strong><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></strong>
 </h1>
-<div align="left">
+
 <h2 align="center">
   <a href="https://github.com/YofhiFauda">Mobile Apps Developer</a>
   <br>
@@ -9,9 +9,10 @@
   <br>
   <br>
   <br>
+  <div align="left">
   <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub>
+  </div>
 </h2>
-</div>
 
     
 - **Mobile Development:** Flutter, Kotlin

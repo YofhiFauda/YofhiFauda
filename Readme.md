@@ -1,16 +1,11 @@
-<h1 align="center">
-  <strong><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></strong>
+<h1 align="left">
+  <strong><p align= center><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></p></strong>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="https://github.com/YofhiFauda">Mobile Apps Developer</a>
 </h1>
-
-<h2 align="left"">
-  <p align="center"><a href="https://github.com/YofhiFauda">Mobile Apps Developer</a></p>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat</a>
-</h2>
 
 ## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)
 

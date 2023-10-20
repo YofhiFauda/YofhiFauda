@@ -9,8 +9,9 @@
   <br>
   <br>
   <br>
-    <p align="left" style="margin-bottom: 00;"><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p>
 </h2>
+    <p align="left" style="margin-bottom: 00;"><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p>
+
     
 - **Mobile Development:** Flutter, Kotlin
 - **Tools:** Android Studio, VS Code, Git

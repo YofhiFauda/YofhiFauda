@@ -9,8 +9,8 @@
   <br>
   <br>
   <br>
-    <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub>
 </h2>
+  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub>
 </div>
 
     

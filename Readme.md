@@ -13,7 +13,7 @@
 </h2>
 
     
-- **Mobile Development:** Flutter, Kotlin
+- **Mobile Development:** Flutter, Kotlin, UI/UX Desaign
 - **Tools:** Android Studio, VS Code, Git, Firebase, Figma
 
 ## 🛠 Keterampilan

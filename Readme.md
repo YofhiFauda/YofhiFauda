@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat</a></sub>
+  <a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat</a>
 </h2>
 
     

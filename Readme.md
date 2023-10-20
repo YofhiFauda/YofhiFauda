@@ -1,5 +1,5 @@
 <h1 align="left">
-  <a href="">Hello! I' am Yofhi Fauda Pradana</a>
+  <p align = center><a href="">Hello! I' am Yofhi Fauda Pradana</a></p>
   <br>
   <sub>🖥️ Mobile Apps Developer</sub>
 </h1>

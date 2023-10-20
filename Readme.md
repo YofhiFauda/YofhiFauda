@@ -9,7 +9,7 @@
   <br>
   <br>
   <br>
-    <p align="left"><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p>
+    <p align="left" style="margin-top: 0;"><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></p>
 </h2>
     
 - **Mobile Development:** Flutter, Kotlin

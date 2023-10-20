@@ -9,13 +9,12 @@
   <br>
   <br>
   <br>
-  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat yang Saya Gunakan</a></sub>
+  <sub><a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat</a></sub>
 </h2>
 
     
 - **Mobile Development:** Flutter, Kotlin
-- **Tools:** Android Studio, VS Code, Git
-- **Continuous Integration/Continuous Deployment:** GitHub Actions, Firebase
+- **Tools:** Android Studio, VS Code, Git, Firebase, Figma
 
 ## 🛠 Keterampilan
 

@@ -1,5 +1,7 @@
-## [Hello! I' am Yofhi Fauda Pradana]()
-## [Mobile Apps Developer]()
+<h1 align="left">
+  <a href="">Hello! I' am Yofhi Fauda Pradana</a>
+  <p>Mobile Apps Developer</p>
+</h1>
 
 ## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)
 

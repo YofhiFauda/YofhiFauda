@@ -1,9 +1,5 @@
 <h1 align="left">
-  <strong><p align= center><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></p></strong>
-  <br>
-  <br>
-  <br>
-  <br>
+  <strong><p><a href="https://github.com/YofhiFauda">Hello! I' am Yofhi Fauda Pradana</a></p></strong>
   <sub><a href="https://github.com/YofhiFauda">Mobile Apps Developer</a></sub>
 </h1>
 

@@ -12,11 +12,9 @@
   <a href="https://github.com/YofhiFauda">🔧 Teknologi & Alat</a>
 </h2>
 
-    
-<sub>
+
 - **Mobile Development:** Flutter, Kotlin, UI/UX Design
 - **Tools:** Android Studio, VS Code, Git, Firebase, Figma
-</sub>
 
 
 ## 🛠 Keterampilan

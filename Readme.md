@@ -31,6 +31,7 @@
 Saya selalu bersemangat untuk belajar hal-hal baru dan siap untuk kolaborasi. Jangan ragu untuk menghubungi saya!
 
 ---
-
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="yofhi-fauda-pradana" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/yofhi-fauda-pradana?trk=profile-badge">Yofhi Fauda Pradana</a></div>
+              
 ⭐️ Dari [@username](https://github.com/username)
 

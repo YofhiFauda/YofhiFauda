@@ -8,20 +8,20 @@
 - **Tools:** Android Studio, VS Code, Git, Firebase, Figma
 
 
-## 🛠 Keterampilan
+## 🛠 Skill
 
-- Pembuatan Aplikasi Mobile dengan Flutter
-- Pengembangan Native dengan Kotlin untuk Android
+- Building Mobile Apps with Flutter
+- Native Development with Kotlin for Android
 
-## 📫 Bagaimana Menghubungi Saya
+## 📫 Contact Me
 
-- Email: [email@domain.com](yofhi132@gmail.com)
-- LinkedIn: [Nama Anda](https://www.linkedin.com/in/yofhi-fauda-pradana/)
-- GitHub: [@username](https://github.com/YofhiFauda)
+- Email: [yofhi132@gmail.com](yofhi132@gmail.com)
+- LinkedIn: [Yofhi Fauda Pradana](https://www.linkedin.com/in/yofhi-fauda-pradana/)
+- GitHub: [@YofhiFauda](https://github.com/YofhiFauda)
 
-Saya selalu bersemangat untuk belajar hal-hal baru dan siap untuk kolaborasi. Jangan ragu untuk menghubungi saya!
+I am always eager to learn new things and ready for collaboration. Feel free to contact me!
 
 ---
               
-⭐️ Dari [@username](https://github.com/username)
+⭐️ Dari [@YofhiFauda](https://github.com/username)
 

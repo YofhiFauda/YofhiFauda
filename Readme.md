@@ -23,5 +23,5 @@ I am always eager to learn new things and ready for collaboration. Feel free to 
 
 ---
               
-⭐️ Dari [@YofhiFauda](https://github.com/username)
+⭐️ [YofhiFauda](https://github.com/username)
 

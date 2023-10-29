@@ -4,8 +4,6 @@
   <sub>🖥️ Mobile Apps Developer</sub>
 </h1>
 
-## [🔧 Teknologi & Alat](https://github.com/YofhiFauda)
-
 - **Mobile Development:** Flutter, Kotlin, UI/UX Design
 - **Tools:** Android Studio, VS Code, Git, Firebase, Figma
 

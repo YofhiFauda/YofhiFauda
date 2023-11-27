@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YofhiFauda&theme=" alt="YofhiFauda" /></a> </p>
 
-<h3 align="left">Skill</h3>
+### SKill
 - Building Mobile Apps with Flutter
 - Native Development with Kotlin for Android
 - Design User Interface Using Figma and Adobe XD

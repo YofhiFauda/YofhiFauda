@@ -9,6 +9,7 @@
 - Native Development with Kotlin for Android
 - Design User Interface Using Figma and Adobe XD
 - Sqlite and Firebase to integrate cloud and data storage features
+- Git for version control allows me to work in an efficient and organized team.
 
 
 

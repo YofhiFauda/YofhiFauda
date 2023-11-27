@@ -8,6 +8,7 @@
 - Building Mobile Apps with Flutter
 - Native Development with Kotlin for Android
 - Design User Interface Using Figma and Adobe XD
+- Sqlite and Firebase to integrate cloud and data storage features
 
 
 

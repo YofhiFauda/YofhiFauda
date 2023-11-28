@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=YofhiFauda&show_icons=true&locale=en&theme=" alt="YofhiFauda" /></p>
 
-<p><img align="center" height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=YofhiFauda&theme=" alt="YofhiFauda" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YofhiFauda&theme=" alt="YofhiFauda" /></p>

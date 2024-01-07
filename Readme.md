@@ -1,6 +1,9 @@
 <p align="center">
 <a href="https://github.com/YofhiFauda"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=35CBFF&center=true&vCenter=true&random=false&width=435&lines=Hi+Everyone!;I'm+Yofhi+Fauda+Pradana;Junior+Mobile+Developer" alt="Typing SVG" /></a>
 </p>
+
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YofhiFauda&label=Profile%20views&color=0e75b6&style=flat" alt="YofhiFauda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YofhiFauda&theme=" alt="YofhiFauda" /></a> </p>

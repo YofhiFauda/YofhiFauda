@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3500&pause=500&color=00F7F4&center=true&vCenter=true&random=false&width=435&lines=Yofhi+Fauda+Pradana;Junior+Mobile+Developer)](https://git.io/typing-svg)
-<h3 align="center">Junior Mobile Apps Developer</h3>
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=500&color=47ADF7&background=000000&center=true&vCenter=true&random=false&width=435&lines=Hi+Everyone!;I'm+Yofhi+Fauda+Pradana;Junior+Mobile+Developer)](https://git.io/typing-svg)
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YofhiFauda&label=Profile%20views&color=0e75b6&style=flat" alt="YofhiFauda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YofhiFauda&theme=" alt="YofhiFauda" /></a> </p>

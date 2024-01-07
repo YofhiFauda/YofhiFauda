@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/YofhiFauda"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=35CBFF&center=true&vCenter=true&random=false&width=435&lines=Hi+Everyone!;I'm+Yofhi+Fauda+Pradana;Junior+Mobile+Developer" alt="Typing SVG" /></a>
+<a href="https://github.com/YofhiFauda"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=500&color=1484FF&center=true&vCenter=true&random=false&width=435&lines=Hi+Everyone!;I'm+Yofhi+Fauda+Pradana;Junior+Mobile+Developer" alt="Typing SVG" /></a>
 </p>
 
 <br>

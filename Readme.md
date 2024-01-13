@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YofhiFauda&label=Profile%20views&color=0e75b6&style=flat" alt="YofhiFauda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YofhiFauda&theme=" alt="YofhiFauda" /></a> </p>
-
 ### SKill
 - Building Mobile Apps with Flutter
 - Native Development with Kotlin for Android

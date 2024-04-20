@@ -19,15 +19,14 @@
 <p align="left">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" target="_blank"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" target="_blank"></a>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite"/>
-<img src="https://img.shields.io/badge/Firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Postman-E8751A?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="40" height="40"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="40" height="40"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-E8751A?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Code" target="_blank"></a>
 </p>
 
 <h3 align="left">Connect With Me</h3>

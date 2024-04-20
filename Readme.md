@@ -8,8 +8,8 @@
 
 ### SKill
 - Building Mobile Apps with Flutter
-- Native Development with Kotlin for Android
-- Design User Interface Using Figma and Adobe XD
+- Android Native Development with Kotlin
+- Design User Interface Using Figma
 - Sqlite and Firebase to integrate cloud and data storage features
 - Git for version control allows me to work in an efficient and organized team.
 
